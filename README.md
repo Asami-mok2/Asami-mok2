@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-練習
+練習🐻
 
 <!--
 **Asami-mok2/Asami-mok2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
